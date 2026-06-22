@@ -1,0 +1,30 @@
+.pelicula-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pelicula-card h2 {
+  margin: 0 0 8px;
+}
+
+.pelicula-card p {
+  margin: 4px 0;
+}
+
+.clasificacion-te {
+  background-color: #d4edda;
+  border-left: 5px solid #28a745;
+}
+
+.clasificacion-14 {
+  background-color: #fff3cd;
+  border-left: 5px solid #ffc107;
+}
+
+.clasificacion-18 {
+  background-color: #f8d7da;
+  border-left: 5px solid #dc3545;
+}
