@@ -1,0 +1,6 @@
+Etapa 1: Configurado el estado inicial con useState.
+Etapa 2: Agregado el formulario para ingresar películas.
+Etapa 3: Implementada la funcionalidad para agregar películas.
+Etapa 4: Mostrando la lista de películas en pantalla.
+Etapa 5: Añadida funcionalidad para marcar y editar películas.
+Etapa 6: Aplicados estilos visuales diferenciados según la clasificación.
